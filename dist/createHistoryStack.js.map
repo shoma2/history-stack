@@ -1,0 +1,1 @@
+{"version":3,"file":"createHistoryStack.js","sourceRoot":"","sources":["../src/createHistoryStack.ts"],"names":[],"mappings":";;AAEA,SAAgB,kBAAkB,CAAC,YAAmB;IACpD,OAAO;QACL,MAAM,EAAE,CAAC,YAAY,CAAC;QACtB,KAAK,EAAE,CAAC;QACR,UAAU,EAAE,IAAI;QAChB,iBAAiB,EAAE,IAAI;KACxB,CAAC;AACJ,CAAC;AAPD,gDAOC"}
